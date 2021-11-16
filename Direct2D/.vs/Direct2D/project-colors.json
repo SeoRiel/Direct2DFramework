@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "471e21cc-fe8c-4f22-844d-67b83519cf65": {
+      "ProjectGuid": "471e21cc-fe8c-4f22-844d-67b83519cf65",
+      "DisplayName": "Direct2D",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
