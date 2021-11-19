@@ -18,12 +18,12 @@
     <ClCompile Include="WinMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D2DFreamwork.cpp">
+    <ClCompile Include="D2DFramework.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D2DFreamwork.h">
+    <ClInclude Include="D2DFramework.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
